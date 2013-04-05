@@ -1,4 +1,10 @@
 hatenablog.svg
 ==============
 
-![SVG](https://raw.github.com/kyanny/hatenablog.svg/master/hatenablog.svg)
+[はてなブログ](http://hatenablog.com/)のロゴマークを SVG で描いてみた。
+
+github.com 上で画像をプレビューできる形でリンクはれなくて残念。
+
+https://github.com/kyanny/hatenablog.svg/blob/master/hatenablog.svg
+
+ライセンス http://kyanny.mit-license.org/
